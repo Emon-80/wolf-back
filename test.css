@@ -1,0 +1,32 @@
+.two{
+    display: hidden;
+    color: aquamarine;
+}
+.one{
+    color: red;
+}
+.zero{
+    color: blue;
+}
+#wolf{
+    color: brown;
+    border: 5px solid black;
+    padding: 10px;
+    margin: 10px 30px;
+    background-color: yellowgreen;
+}
+body{
+    background-color: cadetblue;
+}
+.button{
+    background-color: red;
+}
+.rabbi{
+    border: 5px solid red;
+    background-color: aquamarine;
+    font-size: 20px;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+
+}
